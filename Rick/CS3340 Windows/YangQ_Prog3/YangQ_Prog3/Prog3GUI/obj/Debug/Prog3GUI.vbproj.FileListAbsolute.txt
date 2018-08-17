@@ -1,0 +1,22 @@
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.exe.config
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.exe
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbproj.GenerateResource.Cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.exe
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\FormClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\PVIPersonClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\FormClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\FormClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\PVIPersonClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\PVIPersonClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbprojResolveAssemblyReference.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.Form2.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.Form1.resources
+C:\Users\Nick\Desktop\School\CS3340 Windows\YangQ_Prog3\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.exe.config
+C:\Users\Nick\Desktop\School\CS3340 Windows\YangQ_Prog3\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.exe
+C:\Users\Nick\Desktop\School\CS3340 Windows\YangQ_Prog3\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.xml
+C:\Users\Nick\Desktop\School\CS3340 Windows\YangQ_Prog3\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.pdb

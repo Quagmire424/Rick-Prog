@@ -1,0 +1,2 @@
+C:\Users\Nick\AppData\Local\Temporary Projects\KvigneN_Prog2\bin\Debug\KvigneN_Prog2.exe.config
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog2\KvigneN_Prog2\bin\Debug\KvigneN_Prog2.exe.config

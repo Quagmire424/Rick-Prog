@@ -1,0 +1,22 @@
+C:\Users\kvignen\AppData\Local\Temporary Projects\CS2340Lab6kvignen\bin\Debug\CS2340Lab6kvignen.exe.config
+J:\CS2340\CS2340Lab6kvignen\bin\Debug\CS2340Lab6kvignen.exe.config
+J:\CS2340\CS2340Lab6kvignen\bin\Debug\CS2340Lab6kvignen.exe
+J:\CS2340\CS2340Lab6kvignen\bin\Debug\CS2340Lab6kvignen.pdb
+J:\CS2340\CS2340Lab6kvignen\bin\Debug\CS2340Lab6kvignen.xml
+J:\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.frmClasses.resources
+J:\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.Resources.resources
+J:\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.vbproj.GenerateResource.Cache
+J:\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.exe
+J:\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.xml
+J:\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.pdb
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab6kvignen\bin\Debug\CS2340Lab6kvignen.exe.config
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.exe
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.xml
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.pdb
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab6kvignen\bin\Debug\CS2340Lab6kvignen.exe
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab6kvignen\bin\Debug\CS2340Lab6kvignen.pdb
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab6kvignen\bin\Debug\CS2340Lab6kvignen.xml
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.frmClasses.resources
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.frmPayment.resources
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.Resources.resources
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab6kvignen\obj\Debug\CS2340Lab6kvignen.vbproj.GenerateResource.Cache

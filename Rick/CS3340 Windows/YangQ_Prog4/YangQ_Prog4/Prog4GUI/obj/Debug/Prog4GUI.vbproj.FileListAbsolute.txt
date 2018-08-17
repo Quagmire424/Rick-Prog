@@ -1,0 +1,18 @@
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\bin\Debug\Prog4GUI.exe.config
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\bin\Debug\Prog4GUI.exe
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\bin\Debug\Prog4GUI.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\bin\Debug\Prog4GUI.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\obj\Debug\Prog4GUI.vbprojResolveAssemblyReference.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\obj\Debug\Prog4GUI.Form1.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\obj\Debug\Prog4GUI.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\obj\Debug\Prog4GUI.vbproj.GenerateResource.Cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\obj\Debug\Prog4GUI.exe
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\obj\Debug\Prog4GUI.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\obj\Debug\Prog4GUI.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\bin\Debug\Worker.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\bin\Debug\Worker.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Prog4GUI\bin\Debug\Worker.xml
+C:\Users\Nick\Desktop\School\CS3340 Windows\YangQ_Prog4\YangQ_Prog4\Prog4GUI\bin\Debug\Prog4GUI.exe.config
+C:\Users\Nick\Desktop\School\CS3340 Windows\YangQ_Prog4\YangQ_Prog4\Prog4GUI\obj\Debug\Prog4GUI.exe
+C:\Users\Nick\Desktop\School\CS3340 Windows\YangQ_Prog4\YangQ_Prog4\Prog4GUI\obj\Debug\Prog4GUI.xml
+C:\Users\Nick\Desktop\School\CS3340 Windows\YangQ_Prog4\YangQ_Prog4\Prog4GUI\obj\Debug\Prog4GUI.pdb

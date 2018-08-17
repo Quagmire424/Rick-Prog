@@ -1,0 +1,11 @@
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog6\Prog6\bin\Debug\Prog6.exe.config
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog6\Prog6\bin\Debug\Prog6.exe
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog6\Prog6\bin\Debug\Prog6.pdb
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog6\Prog6\bin\Debug\Prog6.xml
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog6\Prog6\obj\Debug\Prog6.vbprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog6\Prog6\obj\Debug\Prog6.FormAllClass.resources
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog6\Prog6\obj\Debug\Prog6.Resources.resources
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog6\Prog6\obj\Debug\Prog6.vbproj.GenerateResource.Cache
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog6\Prog6\obj\Debug\Prog6.exe
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog6\Prog6\obj\Debug\Prog6.xml
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog6\Prog6\obj\Debug\Prog6.pdb

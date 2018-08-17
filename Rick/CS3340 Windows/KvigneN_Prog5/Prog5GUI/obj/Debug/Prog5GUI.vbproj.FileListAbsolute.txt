@@ -1,0 +1,2 @@
+F:\CS3340 Windows\KvigneN_Prog5\Prog5GUI\bin\Debug\Prog5GUI.exe.config
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog5\Prog5GUI\bin\Debug\Prog5GUI.exe.config

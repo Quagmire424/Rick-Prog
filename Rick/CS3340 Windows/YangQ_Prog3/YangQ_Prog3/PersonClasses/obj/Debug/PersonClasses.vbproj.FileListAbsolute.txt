@@ -1,0 +1,17 @@
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog2\PersonClasses\bin\Debug\PersonClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog2\PersonClasses\bin\Debug\PersonClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog2\PersonClasses\bin\Debug\PersonClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog2\PersonClasses\obj\Debug\PersonClasses.vbproj.GenerateResource.Cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog2\PersonClasses\obj\Debug\PersonClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog2\PersonClasses\obj\Debug\PersonClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog2\PersonClasses\obj\Debug\PersonClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog2\PersonClasses\obj\Debug\UWPCS3340.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog2\PersonClasses\obj\Debug\PersonClasses.vbprojResolveAssemblyReference.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\PersonClasses\bin\Debug\PVIPersonClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\PersonClasses\bin\Debug\PVIPersonClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\PersonClasses\bin\Debug\PVIPersonClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\PersonClasses\obj\Debug\UWPCS3340.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\PersonClasses\obj\Debug\PersonClasses.vbproj.GenerateResource.Cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\PersonClasses\obj\Debug\PVIPersonClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\PersonClasses\obj\Debug\PVIPersonClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\PersonClasses\obj\Debug\PVIPersonClasses.pdb

@@ -1,0 +1,2 @@
+C:\Users\yangq\AppData\Local\Temporary Projects\MyClasses\bin\Debug\MyClasses.exe.config
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog2\MyClasses\bin\Debug\MyClasses.exe.config

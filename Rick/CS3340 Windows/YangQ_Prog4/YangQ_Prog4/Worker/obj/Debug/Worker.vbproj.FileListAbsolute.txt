@@ -1,0 +1,9 @@
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Worker\bin\Debug\Worker.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Worker\bin\Debug\Worker.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Worker\bin\Debug\Worker.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Worker\obj\Debug\Worker.vbprojResolveAssemblyReference.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Worker\obj\Debug\Worker.vbproj.GenerateResource.Cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Worker\obj\Debug\Worker.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Worker\obj\Debug\Worker.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Worker\obj\Debug\Worker.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog4\Worker\obj\Debug\UWPCS3340.Resources.resources

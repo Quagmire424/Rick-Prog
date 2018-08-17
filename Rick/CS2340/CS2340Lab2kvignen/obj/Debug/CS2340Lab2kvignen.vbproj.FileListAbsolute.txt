@@ -1,0 +1,25 @@
+C:\Users\kvignen\AppData\Local\Temporary Projects\CS2340Lab2kvignen\bin\Debug\CS2340Lab2kvignen.exe.config
+J:\CS2340\CS2340Lab2kvignen\bin\Debug\CS2340Lab2kvignen.exe.config
+J:\CS2340\CS2340Lab2kvignen\bin\Debug\CS2340Lab2kvignen.exe
+J:\CS2340\CS2340Lab2kvignen\bin\Debug\CS2340Lab2kvignen.pdb
+J:\CS2340\CS2340Lab2kvignen\bin\Debug\CS2340Lab2kvignen.xml
+J:\CS2340\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.Form1.resources
+J:\CS2340\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.Resources.resources
+J:\CS2340\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.vbproj.GenerateResource.Cache
+J:\CS2340\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.exe
+J:\CS2340\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.xml
+J:\CS2340\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.pdb
+F:\CS2340Lab2kvignen\bin\Debug\CS2340Lab2kvignen.exe.config
+F:\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.exe
+F:\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.xml
+F:\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.pdb
+F:\CS2340Lab2kvignen\bin\Debug\CS2340Lab2kvignen.exe
+F:\CS2340Lab2kvignen\bin\Debug\CS2340Lab2kvignen.pdb
+F:\CS2340Lab2kvignen\bin\Debug\CS2340Lab2kvignen.xml
+F:\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.Form1.resources
+F:\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.Resources.resources
+F:\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.vbproj.GenerateResource.Cache
+C:\Users\Nick\Desktop\CS2340Lab2kvignen\bin\Debug\CS2340Lab2kvignen.exe.config
+C:\Users\Nick\Desktop\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.exe
+C:\Users\Nick\Desktop\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.xml
+C:\Users\Nick\Desktop\CS2340Lab2kvignen\obj\Debug\CS2340Lab2kvignen.pdb

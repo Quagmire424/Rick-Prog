@@ -1,0 +1,27 @@
+C:\Users\yangq\AppData\Local\Temporary Projects\YangQ_A10_S2\bin\Debug\YangQ_A10_S2.exe.config
+C:\Users\yangq\AppData\Local\Temporary Projects\YangQ_A10_S2\bin\Debug\YangQ_A10_S2.exe
+C:\Users\yangq\AppData\Local\Temporary Projects\YangQ_A10_S2\bin\Debug\YangQ_A10_S2.pdb
+C:\Users\yangq\AppData\Local\Temporary Projects\YangQ_A10_S2\bin\Debug\YangQ_A10_S2.xml
+C:\Users\yangq\AppData\Local\Temporary Projects\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.vbprojResolveAssemblyReference.cache
+C:\Users\yangq\AppData\Local\Temporary Projects\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.Form1.resources
+C:\Users\yangq\AppData\Local\Temporary Projects\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.Resources.resources
+C:\Users\yangq\AppData\Local\Temporary Projects\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.vbproj.GenerateResource.Cache
+C:\Users\yangq\AppData\Local\Temporary Projects\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.exe
+C:\Users\yangq\AppData\Local\Temporary Projects\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.xml
+C:\Users\yangq\AppData\Local\Temporary Projects\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.pdb
+K:\Courses\CSSE\yangq\cs3630\1CourseMaterials\YangQ_A10_S2\YangQ_A10_S2\bin\Debug\YangQ_A10_S2.exe.config
+K:\Courses\CSSE\yangq\cs3630\1CourseMaterials\YangQ_A10_S2\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.exe
+K:\Courses\CSSE\yangq\cs3630\1CourseMaterials\YangQ_A10_S2\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.xml
+K:\Courses\CSSE\yangq\cs3630\1CourseMaterials\YangQ_A10_S2\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.pdb
+K:\Courses\CSSE\yangq\cs3630\1CourseMaterials\YangQ_A10_S2\YangQ_A10_S2\bin\Debug\YangQ_A10_S2.exe
+K:\Courses\CSSE\yangq\cs3630\1CourseMaterials\YangQ_A10_S2\YangQ_A10_S2\bin\Debug\YangQ_A10_S2.pdb
+K:\Courses\CSSE\yangq\cs3630\1CourseMaterials\YangQ_A10_S2\YangQ_A10_S2\bin\Debug\YangQ_A10_S2.xml
+K:\Courses\CSSE\yangq\cs3630\1CourseMaterials\YangQ_A10_S2\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.vbprojResolveAssemblyReference.cache
+K:\Courses\CSSE\yangq\cs3630\1CourseMaterials\YangQ_A10_S2\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.Form1.resources
+K:\Courses\CSSE\yangq\cs3630\1CourseMaterials\YangQ_A10_S2\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.Resources.resources
+K:\Courses\CSSE\yangq\cs3630\1CourseMaterials\YangQ_A10_S2\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.vbproj.GenerateResource.Cache
+K:\Courses\CSSE\yangq\cs3630\1CourseMaterials\YangQ_A10_S2\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.FormClassLogin.resources
+C:\Users\Nick\Desktop\School\CS3630 Database\YangQ_A10_S2\YangQ_A10_S2\bin\Debug\YangQ_A10_S2.exe.config
+C:\Users\Nick\Desktop\School\CS3630 Database\YangQ_A10_S2\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.exe
+C:\Users\Nick\Desktop\School\CS3630 Database\YangQ_A10_S2\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.xml
+C:\Users\Nick\Desktop\School\CS3630 Database\YangQ_A10_S2\YangQ_A10_S2\obj\Debug\YangQ_A10_S2.pdb

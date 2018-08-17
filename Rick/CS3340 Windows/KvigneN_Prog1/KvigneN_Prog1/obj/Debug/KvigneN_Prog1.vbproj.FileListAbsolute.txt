@@ -1,0 +1,12 @@
+C:\Users\Nick\AppData\Local\Temporary Projects\KvigneN_Prog1\bin\Debug\KvigneN_Prog1.exe.config
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog1\KvigneN_Prog1\bin\Debug\KvigneN_Prog1.exe.config
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog1\KvigneN_Prog1\bin\Debug\KvigneN_Prog1.exe
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog1\KvigneN_Prog1\bin\Debug\KvigneN_Prog1.pdb
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog1\KvigneN_Prog1\bin\Debug\KvigneN_Prog1.xml
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog1\KvigneN_Prog1\obj\Debug\KvigneN_Prog1.FormClassCreate.resources
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog1\KvigneN_Prog1\obj\Debug\KvigneN_Prog1.FormClassShow.resources
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog1\KvigneN_Prog1\obj\Debug\KvigneN_Prog1.Resources.resources
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog1\KvigneN_Prog1\obj\Debug\KvigneN_Prog1.vbproj.GenerateResource.Cache
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog1\KvigneN_Prog1\obj\Debug\KvigneN_Prog1.exe
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog1\KvigneN_Prog1\obj\Debug\KvigneN_Prog1.xml
+C:\Users\Nick\Desktop\School\CS3340 Windows\KvigneN_Prog1\KvigneN_Prog1\obj\Debug\KvigneN_Prog1.pdb

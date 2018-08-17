@@ -1,0 +1,12 @@
+C:\Users\Nick\AppData\Local\Temporary Projects\CS2340Lab5kvignen\bin\Debug\CS2340Lab5kvignen.exe.config
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab5kvignen\bin\Debug\CS2340Lab5kvignen.exe.config
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab5kvignen\bin\Debug\CS2340Lab5kvignen.exe
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab5kvignen\bin\Debug\CS2340Lab5kvignen.pdb
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab5kvignen\bin\Debug\CS2340Lab5kvignen.xml
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab5kvignen\obj\Debug\CS2340Lab5kvignen.frmPayRoll.resources
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab5kvignen\obj\Debug\CS2340Lab5kvignen.frmStats.resources
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab5kvignen\obj\Debug\CS2340Lab5kvignen.Resources.resources
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab5kvignen\obj\Debug\CS2340Lab5kvignen.vbproj.GenerateResource.Cache
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab5kvignen\obj\Debug\CS2340Lab5kvignen.exe
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab5kvignen\obj\Debug\CS2340Lab5kvignen.xml
+C:\Users\Nick\Desktop\School\CS2340\CS2340Lab5kvignen\obj\Debug\CS2340Lab5kvignen.pdb
